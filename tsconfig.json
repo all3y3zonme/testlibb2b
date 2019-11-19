@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "target": "es2016",
+        "module": "commonjs",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true
+    },
+    "include": [
+        "public/"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
